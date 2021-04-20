@@ -31,6 +31,5 @@ fi
 if [[ -e /home/$CurrentUser/.minecraft/launcher_log.txt ]] && [[ $SystemBoot > $MCProcessTime ]]; then
 echo -e User has been detected for generic cheat A >> /tmp/scanresults.txt
 fi
-cat /tmp/scanresults.txt
 # generic to check if the user changed their minecraft directory
 # KAWAII IS COOL
