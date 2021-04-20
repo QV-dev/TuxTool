@@ -44,7 +44,6 @@ sudo bash $ScriptDir/generic/minecraftgeneric2.sh
 sudo bash $ScriptDir/check/modcheats.sh
 sudo bash $ScriptDir/check/vmcheck.sh
 sudo bash $ScriptDir/generic/minecraftgeneric3.sh
-sudo  bash $ScriptDir/generic/clearhist.sh
 # insert more scripts here
 sleep 5
 sudo cat /tmp/scanresults.txt
