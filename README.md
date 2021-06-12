@@ -1,5 +1,5 @@
 # TuxTool 0.0.2
-Free and opensource screenshare tool for linux (and soon) mac
+Free and opensource screenshare tool for linux
 To use, do the following:
 Open terminal, and then do 
 ```
